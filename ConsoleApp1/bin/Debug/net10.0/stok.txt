@@ -1,0 +1,4 @@
+elma:45
+muz:10
+kiraz:35
+karpuz:12
