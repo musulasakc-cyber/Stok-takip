@@ -18,8 +18,4 @@ Program içerisinde aşağıdaki C# yetenekleri kullanılmıştır:
 - **String Manipulation:** `Split(':')`, `Trim()` ve `String Interpolation`.
 - **Parsing:** `int.TryParse` ile güvenli tip dönüşümleri.
 
-## 💻 Kurulum ve Çalıştırma
 
-1. Bu depoyu klonlayın:
-   ```bash
-   git clone [https://github.com/musulasakc-cyber/Stok-takip.git](https://github.com/musulasakc-cyber/Stok-takip.git)
